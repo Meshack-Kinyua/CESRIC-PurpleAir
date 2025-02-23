@@ -4786,5 +4786,12 @@
         "temperature": 78,
         "humidity": 78,
         "timestamp": "2025-02-23 05:05:34"
+    },
+    {
+        "sensor_id": "143758",
+        "pm2.5": 7.2,
+        "temperature": 78,
+        "humidity": 78,
+        "timestamp": "2025-02-23 05:05:51"
     }
 ]
